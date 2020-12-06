@@ -18,8 +18,11 @@ namespace Advent._2020
             //var d = new DaY04();
             //d.Ex01();
 
-            var e = new Day05();
-            e.Ex01();
+            //var e = new Day05();
+            //e.Ex01();
+
+            var f = new Day06();
+            f.Ex2();
         }
     }
 }
